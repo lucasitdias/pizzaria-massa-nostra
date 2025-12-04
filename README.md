@@ -8,13 +8,6 @@
 # 🍕 Pizzaria Massa Nostra - Sistema Completo de Gestão
 
 Sistema web completo para gerenciamento de pizzaria com módulos de pedidos online, gestão de estoque, fornecedores, relatórios e integração com pagamentos.
-
-[![Node.js](https://img.shields.io/badge/Node.js-18.x-green. svg)](https://nodejs.org/)
-[![NestJS](https://img.shields.io/badge/NestJS-10.x-red.svg)](https://nestjs. com/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue.svg)](https://www.typescriptlang.org/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15.x-blue.svg)](https://www.postgresql.org/)
-[![Supabase](https://img.shields.io/badge/Supabase-Cloud-green.svg)](https://supabase.com/)
-
 ---
 
 ## 📋 Índice
